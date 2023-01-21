@@ -1,6 +1,6 @@
 # Network
 
-![Visitor Count](https://profile-counter.glitch.me/{ambrusza}/count.svg)
+![](https://komarev.com/ghpvc/?username=ambrusza&style=for-the-badge&color=red)
 
 
 making networks with python - for further Gephi use usually with sports data
